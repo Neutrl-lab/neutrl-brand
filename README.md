@@ -157,13 +157,9 @@ Our brand typeface is **Host Grotesk**. Host Grotesk is a uniwidth sans serif va
 
 ### Folded Paper Grid
 
-<div align="center">
-
 Neutrl's illustration system reflects its values of sophistication, clarity, and growth. Using shades of green, solid colors, and subtle grid patterns, we create visual depth that signals trust and stability. The isometric perspective adds transparency and technical precision, making complex systems feel clear and accessible.
 
 Our hero illustration, the Folded Paper Grid, is inspired by yield curves and performance graphs. It symbolizes steady growth, compounding returns, and the structured momentum at the core of Neutrl's ecosystem.
-
-</div>
 
 ### Isometric Illustrations
 
@@ -175,82 +171,71 @@ Use clean lines, layered depth, and a fixed isometric perspective to show the in
 
 ## 05 Applications
 
-### Social Media Assets
+### Social Media Presence
+
+Our social media presence is carefully crafted to maintain brand consistency across all platforms while adapting to each platform's unique requirements and audience expectations.
 
 #### Profile Pictures
 
-Our social media profile pictures are available in both light and dark variants, with squared and rounded options:
+Our profile pictures are designed to be instantly recognizable while maintaining flexibility for different platform requirements. Each variant is optimized for its specific use case:
 
-##### Light Variant
+##### Light Theme
 
-- Squared: `socials/pfp/neutrl-pfp-light-squared.jpg`
-- Rounded: `socials/pfp/neutrl-pfp-light-rounded.jpg`
+- [Squared Profile](socials/pfp/neutrl-pfp-light-squared.jpg) - Perfect for platforms that support square profile pictures
+- [Rounded Profile](socials/pfp/neutrl-pfp-light-rounded.jpg) - Ideal for platforms that support circular profile pictures
 
-##### Dark Variant
+##### Dark Theme
 
-- Squared: `socials/pfp/neutrl-pfp-dark-squared.jpg`
-- Rounded: `socials/pfp/neutrl-pfp-dark-rounded.jpg`
+- [Squared Profile](socials/pfp/neutrl-pfp-dark-squared.jpg) - For platforms with dark backgrounds
+- [Rounded Profile](socials/pfp/neutrl-pfp-dark-rounded.jpg) - For platforms with dark backgrounds supporting circular profiles
 
-#### Twitter Assets
+#### Twitter Presence
 
-Twitter cover images are available in two variants:
+Our Twitter presence is designed to make a strong first impression while maintaining brand consistency:
 
-##### Brand Cover
+##### Cover Images
 
-![Twitter Brand Cover](socials/twitter/twitter-cover-brand.png)
+- [Brand Cover](socials/twitter/twitter-cover-brand.png) - Our primary Twitter cover, featuring our brand identity
+- [Tagline Cover](socials/twitter/twitter-cover-tagline.png) - For special announcements and product launches
 
-- File: `socials/twitter/twitter-cover-brand.png`
-- Use for general brand presence
-- Maintains clean, professional appearance
+#### LinkedIn Presence
 
-##### Tagline Cover
+Our LinkedIn presence is tailored for professional networking and corporate communication:
 
-![Twitter Tagline Cover](socials/twitter/twitter-cover-tagline.png)
+##### Cover Images
 
-- File: `socials/twitter/twitter-cover-tagline.png`
-- Use for product launches and announcements
-- Includes tagline for enhanced messaging
-
-#### LinkedIn Assets
-
-LinkedIn cover images are available in two variants:
-
-##### Brand Cover
-
-![LinkedIn Brand Cover](socials/linkedin/linkedin-cover-brand.png)
-
-- File: `socials/linkedin/linkedin-cover-brand.png`
-- Use for company page and professional networking
-- Maintains corporate identity
-
-##### Tagline Cover
-
-![LinkedIn Tagline Cover](socials/linkedin/linkedin-cover-tagline.png)
-
-- File: `socials/linkedin/linkedin-cover-tagline.png`
-- Use for company announcements and updates
-- Includes tagline for enhanced messaging
+- [Brand Cover](socials/linkedin/linkedin-cover-brand.png) - Our primary LinkedIn cover, maintaining corporate identity
+- [Tagline Cover](socials/linkedin/linkedin-cover-tagline.png) - For company announcements and updates
 
 ### Usage Guidelines
 
 #### Profile Pictures
 
-- Use squared variants for platforms that support square profile pictures
-- Use rounded variants for platforms that support circular profile pictures
-- Choose light or dark variant based on platform's background color
-- Maintain consistent usage across all platforms
+When using our profile pictures, consider these guidelines:
+
+- Choose the appropriate variant based on the platform's requirements
+- Use light theme variants for dark backgrounds and dark theme variants for light backgrounds
+- Maintain consistent usage across all platforms to strengthen brand recognition
+- Ensure the profile picture is clearly visible and not obscured by platform elements
 
 #### Cover Images
 
+For cover images, follow these best practices:
+
 - Use brand covers for general presence and company pages
-- Use tagline covers for specific announcements or product launches
-- Ensure proper scaling and cropping for each platform
-- Maintain aspect ratios as provided in the original files
+- Reserve tagline covers for specific announcements or product launches
+- Ensure proper scaling and cropping for each platform's requirements
+- Maintain the original aspect ratios to preserve design integrity
 
 ### Background Assets
 
-The brand background (`backgrounds/bg-brand.png`) is available for use in presentations, social media posts, and marketing materials. Always maintain the original aspect ratio when scaling.
+Our [brand background](backgrounds/bg-brand.png) serves as a versatile asset for various applications:
+
+- Presentations and pitch decks
+- Social media posts and stories
+- Marketing materials and advertisements
+- Always maintain the original aspect ratio when scaling
 
 ---
 
-For any questions regarding brand asset usage, please contact the brand team.
+For any questions regarding brand asset usage or to request additional assets, please contact the brand team.
