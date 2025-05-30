@@ -1,12 +1,8 @@
 # Brand Guidelines
 
-<div align="center">
-
 ![Neutrl Logo](logo/png/neutrl-logo-light.png)
 
 Version 1.0
-
-</div>
 
 ---
 
@@ -24,15 +20,11 @@ Version 1.0
 
 ### The Logo
 
-<div align="center">
-
 Our logo, composed of a distinct Mark and Wordmark, stands as the cornerstone of our visual identity and holds the prime position in our brand's graphic representation. Its elements have been intricately crafted, designed to work together seamlessly to offer an aesthetically balanced portrayal of our brand.
 
 The consistency in the application of our logo is vital to the preservation and enhancement of our brand identity. It acts as an immediate signifier, communicating our essence and values at a glance.
 
 To ensure the continuity of this recognition, it's crucial to refrain from any alterations, modifications, or redrawing - thus maintaining the logo's original integrity.
-
-</div>
 
 <div align="center">
 
@@ -43,13 +35,9 @@ To ensure the continuity of this recognition, it's crucial to refrain from any a
 
 ### The Mark
 
-<div align="center">
-
 Our mark is a stylized letter N, formed with curved, organic lines inspired by the flowing shape of a delta chart—a nod to the brand's connection to financial markets and data movement. This fluid form reflects agility, growth, and adaptability, key qualities in the financial and crypto landscape.
 
 To preserve its integrity, only the official digital artwork should be used. Do not redraw, distort, or alter the logo in any way.
-
-</div>
 
 <div align="center">
 
@@ -60,29 +48,17 @@ To preserve its integrity, only the official digital artwork should be used. Do 
 
 ### Logo Color Options
 
-<div align="center">
-
 Always ensure high contrast between the logo and its background. Use the appropriate logo variation to maintain sufficient contrast, ensuring the logo is fully visible and stands out clearly.
-
-</div>
 
 ### Black & White Logo
 
-<div align="center">
-
 Whenever possible, use the colored logo versions as outlined above. However, for monochrome applications, such as black-and-white print materials where color is not an option, the black or white logo versions should be used instead.
 
-</div>
-
 ### Exclusion Zone & Minimum Size
-
-<div align="center">
 
 The purpose of the exclusion zone is to preserve the legibility and impact of our Logo by creating a clear space that separates it from any competing visual elements, such as text or supporting graphics. This zone serves as a minimum safe distance, guaranteeing that our Logo has ample room to make a powerful statement.
 
 The size of the exclusion zone is determined by half the height of the Logo, as denoted as 'x' in the accompanying diagram. If the Symbol is used instead of the full Logo, the same exclusion rules apply, with the Symbol having an exclusion zone equal to half its own height.
-
-</div>
 
 #### Minimum sizes:
 
@@ -91,11 +67,7 @@ The size of the exclusion zone is determined by half the height of the Logo, as 
 
 ### Logo Misuse
 
-<div align="center">
-
 Maintaining the consistent appearance of our Logo is of utmost importance. It is crucial to avoid misinterpretation, modification, or additions to the Logo.
-
-</div>
 
 #### ❌ Do not:
 
@@ -111,11 +83,7 @@ Maintaining the consistent appearance of our Logo is of utmost importance. It is
 
 ### Token Logos
 
-<div align="center">
-
 To reinforce Neutrl's brand identity, each token logo is built using the same visual language as the 'N' from Neutrl's primary logo. This approach ensures visual consistency and strengthens brand recognition across the entire product line.
-
-</div>
 
 <div align="center">
 
@@ -131,17 +99,11 @@ To reinforce Neutrl's brand identity, each token logo is built using the same vi
 
 ### Brand Color
 
-<div align="center">
-
 The primary colors form the foundation of our brand's visual identity, setting the tone and mood for all communications.
 
 Our core palette features shades of green, complemented by a vivid yellow-green highlight color. The green tones convey a sense of balance, growth, and neutrality, while the highlight color adds boldness and energy. Together, they express the brand's personality and create a strong visual anchor across all design materials.
 
-</div>
-
 ### Primary Colors
-
-<div align="center">
 
 | Color            | HEX     | RGB         | CMYK       |
 | ---------------- | ------- | ----------- | ---------- |
@@ -149,11 +111,7 @@ Our core palette features shades of green, complemented by a vivid yellow-green 
 | **Neutrl Green** | #2E4D40 | 46/77/64    | 40/0/17/70 |
 | **Light Green**  | #94C199 | 148/193/153 | 23/0/21/24 |
 
-</div>
-
 ### Secondary Colors
-
-<div align="center">
 
 | Color         | HEX     | RGB         | CMYK       |
 | ------------- | ------- | ----------- | ---------- |
@@ -162,19 +120,13 @@ Our core palette features shades of green, complemented by a vivid yellow-green 
 | **Dark 300**  | #1F3A33 | 31/58/51    | 47/0/12/77 |
 | **Highlight** | #D6E438 | 214/228/56  | 6/0/75/11  |
 
-</div>
-
 ---
 
 ## 03 Typography
 
 ### Brand Typeface
 
-<div align="center">
-
 Our brand typeface is **Host Grotesk**. Host Grotesk is a uniwidth sans serif variable font for modern user interfaces. It features uniform letter widths and spacing across all weights and corresponding italics, ensuring seamless adaptability without compromising layout consistency.
-
-</div>
 
 #### Available weights:
 
@@ -187,8 +139,6 @@ Our brand typeface is **Host Grotesk**. Host Grotesk is a uniwidth sans serif va
 - All weights include italic variants
 
 ### Type Hierarchy
-
-<div align="center">
 
 | Style        | Font                           | Size | Line Height | Letter Spacing |
 | ------------ | ------------------------------ | ---- | ----------- | -------------- |
@@ -217,13 +167,9 @@ Our hero illustration, the Folded Paper Grid, is inspired by yield curves and pe
 
 ### Isometric Illustrations
 
-<div align="center">
-
 We use an isometric-style illustration designed to visualize transparency. The token is shown with its inner layers exposed to represent how Neutrl works under the hood; open, structured, and intentional.
 
 Use clean lines, layered depth, and a fixed isometric perspective to show the internal components clearly. Keep the color palette aligned with Neutrl's brand colors, and maintain a sense of technical precision without clutter.
-
-</div>
 
 ---
 
@@ -231,11 +177,7 @@ Use clean lines, layered depth, and a fixed isometric perspective to show the in
 
 ### Social Media Assets
 
-<div align="center">
-
 Our social media profile pictures are available in both light and dark variants, with squared and rounded options:
-
-</div>
 
 #### Light Variant
 
@@ -249,16 +191,8 @@ Our social media profile pictures are available in both light and dark variants,
 
 ### Background Assets
 
-<div align="center">
-
 The brand background (`bg-brand.png`) is available for use in presentations, social media posts, and marketing materials. Always maintain the original aspect ratio when scaling.
-
-</div>
 
 ---
 
-<div align="center">
-
 For any questions regarding brand asset usage, please contact the brand team.
-
-</div>
