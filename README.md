@@ -177,21 +177,79 @@ Use clean lines, layered depth, and a fixed isometric perspective to show the in
 
 ### Social Media Assets
 
+#### Profile Pictures
+
 Our social media profile pictures are available in both light and dark variants, with squared and rounded options:
 
-#### Light Variant
+##### Light Variant
 
-- Squared: `neutrl-pfp-light-squared.jpg`
-- Rounded: `neutrl-pfp-light-rounded.jpg`
+- Squared: `socials/pfp/neutrl-pfp-light-squared.jpg`
+- Rounded: `socials/pfp/neutrl-pfp-light-rounded.jpg`
 
-#### Dark Variant
+##### Dark Variant
 
-- Squared: `neutrl-pfp-dark-squared.jpg`
-- Rounded: `neutrl-pfp-dark-rounded.jpg`
+- Squared: `socials/pfp/neutrl-pfp-dark-squared.jpg`
+- Rounded: `socials/pfp/neutrl-pfp-dark-rounded.jpg`
+
+#### Twitter Assets
+
+Twitter cover images are available in two variants:
+
+##### Brand Cover
+
+![Twitter Brand Cover](socials/twitter/twitter-cover-brand.png)
+
+- File: `socials/twitter/twitter-cover-brand.png`
+- Use for general brand presence
+- Maintains clean, professional appearance
+
+##### Tagline Cover
+
+![Twitter Tagline Cover](socials/twitter/twitter-cover-tagline.png)
+
+- File: `socials/twitter/twitter-cover-tagline.png`
+- Use for product launches and announcements
+- Includes tagline for enhanced messaging
+
+#### LinkedIn Assets
+
+LinkedIn cover images are available in two variants:
+
+##### Brand Cover
+
+![LinkedIn Brand Cover](socials/linkedin/linkedin-cover-brand.png)
+
+- File: `socials/linkedin/linkedin-cover-brand.png`
+- Use for company page and professional networking
+- Maintains corporate identity
+
+##### Tagline Cover
+
+![LinkedIn Tagline Cover](socials/linkedin/linkedin-cover-tagline.png)
+
+- File: `socials/linkedin/linkedin-cover-tagline.png`
+- Use for company announcements and updates
+- Includes tagline for enhanced messaging
+
+### Usage Guidelines
+
+#### Profile Pictures
+
+- Use squared variants for platforms that support square profile pictures
+- Use rounded variants for platforms that support circular profile pictures
+- Choose light or dark variant based on platform's background color
+- Maintain consistent usage across all platforms
+
+#### Cover Images
+
+- Use brand covers for general presence and company pages
+- Use tagline covers for specific announcements or product launches
+- Ensure proper scaling and cropping for each platform
+- Maintain aspect ratios as provided in the original files
 
 ### Background Assets
 
-The brand background (`bg-brand.png`) is available for use in presentations, social media posts, and marketing materials. Always maintain the original aspect ratio when scaling.
+The brand background (`backgrounds/bg-brand.png`) is available for use in presentations, social media posts, and marketing materials. Always maintain the original aspect ratio when scaling.
 
 ---
 
