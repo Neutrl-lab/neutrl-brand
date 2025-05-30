@@ -1,6 +1,6 @@
 # Brand Guidelines
 
-![Neutrl Logo](logo/png/neutrl-logo-light.png)
+![Neutrl Logo](socials/twitter/twitter-cover-brand.png)
 
 Version 1.0
 
