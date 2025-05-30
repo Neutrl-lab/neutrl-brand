@@ -87,9 +87,25 @@ To reinforce Neutrl's brand identity, each token logo is built using the same vi
 
 <div align="center">
 
-![NTRL Token](tokens/svg/NTRL.svg)
-![NUSD Token](tokens/svg/NUSD.svg)
-![sNUSD Token](tokens/svg/sNUSD.svg)
+<table align="center">
+<tr>
+    <th>
+        <img src="tokens/svg/NTRL.svg" width="48">
+        <br/>
+        <b>NTRL Token</b>
+    </th>
+    <th>
+        <img src="tokens/svg/NUSD.svg" width="48">
+        <br/>
+        <b>NUSD Token</b>
+    </th>
+    <th>
+        <img src="tokens/svg/sNUSD.svg" width="48">
+        <br/>
+        <b>sNUSD Token</b>
+    </th>
+</tr>
+</table>
 
 </div>
 
